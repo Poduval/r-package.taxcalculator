@@ -1,0 +1,11 @@
+Package: taxcalculator
+Type: Package
+Title: Calculates payable tax acmount as per Indian rules
+Version: 23.2.0
+Author: Rakesh Poduval <poduval.rakesh@icloud.ch>
+Maintainer: Rakesh Poduval <poduval.rakesh@icloud.ch>
+Description: Simplyfying indian tax calculator
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
